@@ -1,4 +1,5 @@
-# co777434abc26d1b973eafdf8
+# Birthday Gift site
+This is a birthday gift site project from the Frontend Career Path at Scrimba.
 
 ## About Scrimba
 
